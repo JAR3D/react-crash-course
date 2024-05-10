@@ -1,0 +1,4 @@
+/node_modules/
+.idea/
+/repo-specific-config.txt
+/.gitconfig
